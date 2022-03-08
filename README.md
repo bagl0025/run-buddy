@@ -12,3 +12,5 @@ https://bagl0025.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Brian Bagley]
+
+### ©️2022 Run Buddy, Inc
